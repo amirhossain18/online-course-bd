@@ -1,0 +1,76 @@
+[{
+    "name": "HTML",
+    "price": "150",
+    "duration": 1,
+    "author": "Smooth Rose"
+  }, {
+    "name": "CSS",
+    "price": "180",
+    "duration": 2,
+    "author": "Entosthodon Moss"
+  }, {
+    "name": "JAVA SCRIPT",
+    "price": "324",
+    "duration": 3,
+    "author": "Roundleaf Bluet"
+  }, {
+    "name": "JSON",
+    "price": "171",
+    "duration": 4,
+    "author": "Toothed Clubmoss"
+  }, {
+    "name": "REACT",
+    "price": "409",
+    "duration": 5,
+    "author": "Carolina Laurelcherry"
+  }, {
+    "name": "BOOTSTRAP",
+    "price": "21",
+    "duration": 6,
+    "author": "Cushion Draba"
+  }, {
+    "name": "ECMA-SCRIPT",
+    "price": "60",
+    "duration": 7,
+    "author": "Savory"
+  }, {
+    "name": "C++",
+    "price": "766",
+    "duration": 8,
+    "author": "Slender Cleomella"
+  }, {
+    "name": "JAVA",
+    "price": "422",
+    "duration": 9,
+    "author": "Valamuerto"
+  }, {
+    "name": "SPOKEN ENGLISH",
+    "price": "430",
+    "duration": 10,
+    "author": "Creeping Snowberry"
+  }, {
+    "name": "VIDEO MAKER",
+    "price": "701",
+    "duration": 11,
+    "author": "Forest Tetramolopium"
+  }, {
+    "name": "GFX",
+    "price": "2009",
+    "duration": 12,
+    "author": "Johnny-jump-up"
+  }, {
+    "name": "SCRIPT WRITING",
+    "price": "305",
+    "duration": 13,
+    "author": "Stunted She-oak"
+  }, {
+    "name": "DIGITAL MARKETING",
+    "price": "750",
+    "duration": 14,
+    "author": "Scribner's Grass"
+  }, {
+    "name": "SCO",
+    "price": "11",
+    "duration": 15,
+    "author": "Flowering Flax"
+  }]

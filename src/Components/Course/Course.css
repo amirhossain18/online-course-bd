@@ -1,0 +1,55 @@
+.main-border h4 h2{
+    border: 2px solid steelblue;
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: gray;
+} 
+
+.single-course {
+    width: 25%;
+    border: 1px solid purple;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.course-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.courses {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.course-button {
+    background-color: #6ad06a;
+    height: 33px;
+    width: 189px;
+    color: white;
+    border: 1px solid #60ff60;
+    cursor: pointer;
+}
+
+.course-price {
+    font-weight: 500;
+}
+
+.main-border{
+    width: 80%;
+
+}
+
+.order-cart{
+    width: 20%;
+    background-color: lightgray;
+    border-radius: 10px;
+    margin-top: 20px;
+    border-left: 1px solid #c1c1c1;
+    height: 100%;
+    padding: 25px 0 40px 0;
+}
